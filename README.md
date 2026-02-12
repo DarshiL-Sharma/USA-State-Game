@@ -1,2 +1,3 @@
 # USA-State-Game
 An interactive Python OOP project using pandas 📊 and turtle graphics 🐢. Guess U.S. states, and correct answers appear on the map! Tracks progress, blends data handling with visualization, and showcases fun learning + coding skills. 🚀
+An interactive Python project built with OOP principles, using pandas 📊 for data handling and turtle graphics 🐢 for visualization. Players guess U.S. states, and correct answers appear on the map at their exact coordinates. The game tracks progress, blends learning with fun, and demonstrates how Python can combine data analysis with graphical output. 🚀 Future upgrades may include scoring ⭐, hints 💡, and difficulty levels 🎯, making it both educational and entertaining!
